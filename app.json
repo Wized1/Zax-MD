@@ -1,36 +1,36 @@
 {
-  "name": "zax-md",
+  "name": "BHAYO-MD",
   "description": "Premium WhatsApp Bot",
   "logo": "https://iili.io/JgAR7WJ.jpg",
-  "keywords": "Zax-Md",
+  "keywords": ".menu",
   
   "env": {
     "OWNER_NAME": {
-      "description": "Name for Bot Owner",    
+      "description": "Mudasir Wazir",    
       "value": "MrXhriss",
       "required" :true
     },   
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
       "value": "",
-      "required" :true 
+      "required" :false
     },   
     "HEROKU_APP_NAME": {
       "description": "Put Your Heroku App Name Here",
       "value": "",
-    "required" :true
+    "required" :false
     },
     "BOT_NAME": {
-      "description": " NAME FOR BOT",
+      "description": " BHAYO-MD",
       "required" :false,    
       "value": "zᴀx ᴍᴅ"
     }, 
     "PREFIX": {
-      "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
+      "description": ".",
       "value": "."
     },
     "OWNER_NUMBER": {
-      "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comm \",\")",
+      "description": "923023229452",
       "value": "255688950205"
     },
     "SESSION_ID": {
@@ -39,16 +39,16 @@
   
     },
     "MODE": {
-      "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
+      "description": "public",
       "value": "private"
     },
     "USER_IMAGES": {
-      "description": "Image for bot",
+      "description": "https://photos.app.goo.gl/FDTeNSLJtyxHwVCy6",
       "required" :false,    
       "value": ""
     }, 
     "TZ": {
-      "description": "Put TIME_ZONE according to your location",
+      "description"lslamadad",
       "required" :false,    
       "value": "Africa/Dodoma"
     },  
